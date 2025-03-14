@@ -5,6 +5,22 @@ This project is a **Python implementation** of the classic **Snake game**, enhan
 
 ---
 
+## 📷 Screenshots  
+
+### 1️⃣ Game Home
+![Bank Starting Page](https://raw.githubusercontent.com/karnidipraveen2005/snakeGame/main/screenshots/starting.png)  
+
+### 2️⃣  
+![User Sign-Up](https://raw.githubusercontent.com/karnidipraveen2005/snakeGame/main/screenshots/start1.png)  
+
+### 3️⃣ 
+![User Login](https://raw.githubusercontent.com/karnidipraveen2005/snakeGame/main/screenshots/start2.png)  
+
+### 4️⃣ Game Over 
+![User Home](https://raw.githubusercontent.com/karnidipraveen2005/snakeGame/main/screenshots/ending.png) 
+
+---
+
 ## ✨ Features
 ✅ **Classic Snake Gameplay** – Control the snake to eat food and grow longer.  
 🤖 **AI Mode** – Watch the AI learn and play the game.  
@@ -101,11 +117,6 @@ The AI uses a **Deep Q-Network (DQN)** to learn optimal actions for the snake. I
 ## 🤝 Contributing
 welcome contributions! 🎉  
 To contribute, **fork** the repository and submit a **pull request** with your changes.  
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**. See the **LICENSE** file for details.  
 
 ---
 
